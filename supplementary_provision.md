@@ -16,3 +16,5 @@
 ## [附　則（平成七年三月八日法律第二十二号）](https://github.com/law-of-japan/19950308-law-22/blob/master/supplementary_provision.md#%E9%99%84%E5%89%87%E5%B9%B3%E6%88%90%E4%B8%83%E5%B9%B4%E4%B8%89%E6%9C%88%E5%85%AB%E6%97%A5%E6%B3%95%E5%BE%8B%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%8C%E5%8F%B7)
 
 ## [附　則（平成一〇年一〇月二一日法律第百四十一号）](https://github.com/law-of-japan/19981021-law-141/blob/master/supplementary_provision.md#%E9%99%84%E5%89%87%E5%B9%B3%E6%88%90%E4%B8%80%E3%80%87%E5%B9%B4%E4%B8%80%E3%80%87%E6%9C%88%E4%BA%8C%E4%B8%80%E6%97%A5%E6%B3%95%E5%BE%8B%E7%AC%AC%E7%99%BE%E5%9B%9B%E5%8D%81%E4%B8%80%E5%8F%B7)
+
+## [附　則（平成一三年六月二二日法律第五十九号）](https://github.com/law-of-japan/20010622-law-59/blob/master/supplementary_provision.md#%E9%99%84%E5%89%87%E5%B9%B3%E6%88%90%E4%B8%80%E4%B8%89%E5%B9%B4%E5%85%AD%E6%9C%88%E4%BA%8C%E4%BA%8C%E6%97%A5%E6%B3%95%E5%BE%8B%E7%AC%AC%E4%BA%94%E5%8D%81%E4%B9%9D%E5%8F%B7)
