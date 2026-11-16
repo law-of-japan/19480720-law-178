@@ -1,0 +1,7 @@
+# Preserve recorded source bytes across Windows and other checkouts.
+versions/** -text
+*.yaml -text
+*.md text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+docs/sources/** -text

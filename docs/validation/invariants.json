@@ -1,0 +1,36 @@
+{
+  "originalRows": 9,
+  "amendedRows": 12,
+  "insertedRows": 3,
+  "unchangedOriginalRows": true,
+  "unchangedOtherMainText": true,
+  "unchangedSupplement": true,
+  "sourceHashesMatch": true,
+  "legacyRefsUnchanged": true,
+  "addedRows": {
+    "建国記念の日": [
+      "成人の日",
+      [
+        "建国記念の日",
+        "政令で定める日",
+        "建国をしのび、国を愛する心を養う。"
+      ]
+    ],
+    "敬老の日": [
+      "こどもの日",
+      [
+        "敬老の日",
+        "九月十五日",
+        "多年にわたり社会につくしてきた老人を敬愛し、長寿を祝う。"
+      ]
+    ],
+    "体育の日": [
+      "秋分の日",
+      [
+        "体育の日",
+        "十月十日",
+        "スポーツにしたしみ、健康な心身をつちかう。"
+      ]
+    ]
+  }
+}
