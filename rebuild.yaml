@@ -1,0 +1,161 @@
+schemaVersion: loj-rebuild/v1alpha1
+record:
+  id: 19480720-law-178
+legacy:
+  repository: https://github.com/law-of-japan/19480720-law-178
+  frozenAt: 09710a8ea128543b04627eb70e353b9675c27177
+sourceChecks:
+- source: src-goshomei-s41-86
+  glyphPreservation: preserved
+  evidence:
+  - source: src-goshomei-s41-86
+    locator: 2画像
+  note: 2026-11-16取得画像を閲覧。取得URL・SHA-256・閲覧範囲はdocs/sources/downloads.jsonと調査記録に記載。字体全体の照合は未完了。 昭和41年6月25日官報号外第78号の画像は検索で入手できなかったため御署名原本を使用。官報字体・官報正誤は未確認。
+- source: src-goshomei
+  glyphPreservation: preserved
+  evidence:
+  - source: src-goshomei
+    locator: 2・3画像
+  note: 2026-11-16取得画像を閲覧。取得URL・SHA-256・閲覧範囲はdocs/sources/downloads.jsonと調査記録に記載。字体全体の照合は未完了。
+- source: src-kanpo-19480928
+  glyphPreservation: preserved
+  evidence:
+  - source: src-kanpo-19480928
+    locator: 2コマ 正誤
+  note: 2026-11-16取得画像を閲覧。取得URL・SHA-256・閲覧範囲はdocs/sources/downloads.jsonと調査記録に記載。字体全体の照合は未完了。
+- source: src-draft
+  glyphPreservation: unknown
+  evidence:
+  - source: src-draft
+    locator: versions/98mj5vgx・versions/zwgmz1rt
+  note: 書式と仮置きの下書き。原典根拠には使用しない。本文は今回取得した原典画像と照合し、細部の字体は未確認として残す。
+- source: src-kanpo-19480720
+  glyphPreservation: preserved
+  evidence:
+  - source: src-kanpo-19480720
+    locator: 1コマ
+  note: 2026-11-16取得画像を閲覧。取得URL・SHA-256・閲覧範囲はdocs/sources/downloads.jsonと調査記録に記載。字体全体の照合は未完了。
+mappings:
+- commit: 927e588c47fb7e3d660dbda95268cde9f775e3df
+  revisions: []
+  verification:
+    state: confirmed
+    reason: リポジトリ作成時のcommitで、本文を含まない
+- commit: e11aa2a3d1a826bef934e37929af1b6c917f97c6
+  revisions:
+  - ry273we4
+  verification:
+    state: unverified
+    reason: 旧commit本文と今回の2版の対応候補。原典と旧本文の全文・全字体の完全照合は未了。
+- commit: 4505a64ebedfad2a3f3d5240d8ad93a208309393
+  revisions:
+  - gfah5dqe
+  verification:
+    state: unverified
+    reason: 旧commit本文と今回の2版の対応候補。原典と旧本文の全文・全字体の完全照合は未了。
+pending:
+- commit: 43934f17a35c8b4dce2caec609bddbae4eb6841b
+  label: 昭和四八年法律第十号による改正
+  reason: 未着手（御署名原本は国立公文書館で公開。）
+- commit: 209dcc42d3dbca18d83af75bf5b7991385830606
+  label: 昭和六〇年法律第百三号による改正
+  reason: 同上
+- commit: 57730bcff094c6ec6209ba77f9de8adb9c01b52b
+  label: 平成元年法律第五号による改正
+  reason: 同上
+- commit: 9acd470b400eb4148c67e94f52b2f241fe25cfa7
+  label: 平成七年法律第二十二号による改正
+  reason: 同上
+- commit: 96a8dd1c4b81b9dcff98be661d727adf85c5da53
+  label: 平成一〇年法律第百四十一号による改正
+  reason: 同上
+- commit: 8b28a36a053e03e20372b7909b97a1c3ca7aa8d2
+  label: 平成一三年法律第五十九号による改正
+  reason: 同上
+- commit: c9284676b743cf2325ffde2eef21352e15f05e6d
+  label: 平成一七年法律第四十三号による改正
+  reason: 同上
+- commit: e3fd297d560f40f5b5eca75dbc19f516eefe8f40
+  label: 平成二六年法律第四十三号による改正
+  reason: 同上
+- commit: 09710a8ea128543b04627eb70e353b9675c27177
+  label: 平成二九年法律第六十三号による改正
+  reason: 同上
+- commit: da2424f55c5d180424d32cbcc142860b7636cc3f
+  label: 平成三十年法律第五十七号による改正
+  reason: 今回対象外。旧origin/not_entered_into_forceに存在することを確認。
+differences:
+- revision: ry273we4
+  class: structure
+  node: 19480720-law-178/main/article/2/paragraph/1/table/1
+  note: 旧本文は祝日の表を箇条書きで書いている
+  legacy:
+    commit: e11aa2a3d1a826bef934e37929af1b6c917f97c6
+    path: article.md
+  evidence:
+  - source: src-kanpo-19480720
+    locator: 第二條
+  verification:
+    state: confirmed
+- revision: ry273we4
+  class: structure
+  node: 19480720-law-178/supplement/original
+  note: 旧本文は附則の見出しに法令番号「（昭和二三年七月二〇日法律第百七十八号）」を加えている。原典の見出しは「附　則」だけ
+  legacy:
+    commit: e11aa2a3d1a826bef934e37929af1b6c917f97c6
+    path: supplementary_provision.md
+  evidence:
+  - source: src-kanpo-19480720
+    locator: 附則
+  verification:
+    state: confirmed
+- revision: ry273we4
+  class: glyph
+  count: 12
+  legacy:
+    commit: e11aa2a3d1a826bef934e37929af1b6c917f97c6
+    path: article.md
+  evidence:
+  - source: src-kanpo-19480720
+    locator: 1コマ
+  verification:
+    state: unverified
+    reason: '字体を照合していない字（text.glyphCheck: unverified）は数えていない'
+- revision: gfah5dqe
+  class: structure
+  node: 19480720-law-178/main/article/2/paragraph/1/table/1
+  note: 旧本文は祝日の表を箇条書きで書いている（制定時の版と同じ）
+  legacy:
+    commit: 4505a64ebedfad2a3f3d5240d8ad93a208309393
+    path: article.md
+  evidence:
+  - source: src-goshomei-s41-86
+    locator: 本則
+  verification:
+    state: confirmed
+- revision: gfah5dqe
+  class: glyph
+  count: 12
+  legacy:
+    commit: 4505a64ebedfad2a3f3d5240d8ad93a208309393
+    path: article.md
+  evidence:
+  - source: src-kanpo-19480720
+    locator: 1コマ
+  - source: src-goshomei-s41-86
+    locator: 本則
+  verification:
+    state: unverified
+    reason: '字体を照合していない字（text.glyphCheck: unverified）は数えていない'
+- revision: gfah5dqe
+  class: structure
+  node: 19480720-law-178/supplement/original
+  note: 旧本文に付加された改正法附則への見出しリンクは収録しない。被改正法の制定附則のみ保持。
+  legacy:
+    commit: 4505a64ebedfad2a3f3d5240d8ad93a208309393
+    path: supplementary_provision.md
+  evidence:
+  - source: src-goshomei-s41-86
+    locator: 3画像 附則第一項
+  verification:
+    state: confirmed
