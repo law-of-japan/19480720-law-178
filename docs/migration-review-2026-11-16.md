@@ -21,4 +21,4 @@ verify-trial.pyで2版のL0/L1、L3、rebuild、registry、L4を検査する。�
 3. 両リポジトリの既定ブランチをmainへ切り替え、直接更新とmerge commitを防ぐ保護設定を確認する。
 4. READMEの候補表示を更新する。旧ブランチと試行ブランチは保持する。
 
-登録台帳はprivate。公開利用者が参照できる状態にするには公開範囲の決定が別途必要。本PRでvisibilityは変更しない。
+登録台帳はレビュー時点ではprivateだったが、所有者がpublicへ変更済み。切替前に公開状態を確認した。
