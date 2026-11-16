@@ -56,31 +56,31 @@ mappings:
 pending:
 - commit: 43934f17a35c8b4dce2caec609bddbae4eb6841b
   label: 昭和四八年法律第十号による改正
-  reason: 未着手（御署名原本は国立公文書館で公開。）
+  reason: 今回対象外。原典の取得・再構築は未着手。
 - commit: 209dcc42d3dbca18d83af75bf5b7991385830606
   label: 昭和六〇年法律第百三号による改正
-  reason: 同上
+  reason: 今回対象外。原典の取得・再構築は未着手。
 - commit: 57730bcff094c6ec6209ba77f9de8adb9c01b52b
   label: 平成元年法律第五号による改正
-  reason: 同上
+  reason: 今回対象外。原典の取得・再構築は未着手。
 - commit: 9acd470b400eb4148c67e94f52b2f241fe25cfa7
   label: 平成七年法律第二十二号による改正
-  reason: 同上
+  reason: 今回対象外。原典の取得・再構築は未着手。
 - commit: 96a8dd1c4b81b9dcff98be661d727adf85c5da53
   label: 平成一〇年法律第百四十一号による改正
-  reason: 同上
+  reason: 今回対象外。原典の取得・再構築は未着手。
 - commit: 8b28a36a053e03e20372b7909b97a1c3ca7aa8d2
   label: 平成一三年法律第五十九号による改正
-  reason: 同上
+  reason: 今回対象外。原典の取得・再構築は未着手。
 - commit: c9284676b743cf2325ffde2eef21352e15f05e6d
   label: 平成一七年法律第四十三号による改正
-  reason: 同上
+  reason: 今回対象外。原典の取得・再構築は未着手。
 - commit: e3fd297d560f40f5b5eca75dbc19f516eefe8f40
   label: 平成二六年法律第四十三号による改正
-  reason: 同上
+  reason: 今回対象外。原典の取得・再構築は未着手。
 - commit: 09710a8ea128543b04627eb70e353b9675c27177
   label: 平成二九年法律第六十三号による改正
-  reason: 同上
+  reason: 今回対象外。原典の取得・再構築は未着手。
 - commit: da2424f55c5d180424d32cbcc142860b7636cc3f
   label: 平成三十年法律第五十七号による改正
   reason: 今回対象外。旧origin/not_entered_into_forceに存在することを確認。

@@ -1,0 +1,14 @@
+{
+  "diagnostics": [],
+  "results": [
+    {
+      "check": "L0",
+      "result": "pass"
+    }
+  ],
+  "target": {
+    "commit": "",
+    "path": "19480720-law-178/versions/ry273we4\\law.yaml",
+    "repository": "19480720-law-178/versions/ry273we4"
+  }
+}

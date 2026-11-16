@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "19480720-law-178",
+    "base": "09710a8ea128543b04627eb70e353b9675c27177",
+    "head": "a00529cb0c840e0bc0352f9dd8e687278017ce43",
+    "exitCode": 0
+  },
+  {
+    "repository": "loj-registry",
+    "base": "26754ec691a4d91eeec4416eea2bde91c6ae5505",
+    "head": "77bae8a298741a212d4aeefe1198ebd2966f0369",
+    "exitCode": 0
+  }
+]
