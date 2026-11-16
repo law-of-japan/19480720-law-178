@@ -1,0 +1,32 @@
+{
+  "19480720-law-178": "09710a8ea128543b04627eb70e353b9675c27177",
+  "19660625-act-86": "4406c26b9c45e3e365890657a5863911d4bb1e01",
+  "loj-spec": "b200fdb13957c6d6c7f9805d59c78980abac093d",
+  "loj-validator": "10b0a3d1ca119db03129479a01caff66743bf430",
+  "loj-repository-management-guideline": "122ce0f01809586d417524e938831fc981b5a378",
+  "legacyRefs": [
+    "09710a8ea128543b04627eb70e353b9675c27177 refs/heads/master",
+    "09710a8ea128543b04627eb70e353b9675c27177 refs/heads/trial/holiday-rebuild-20261116",
+    "09710a8ea128543b04627eb70e353b9675c27177 refs/remotes/origin/HEAD",
+    "09710a8ea128543b04627eb70e353b9675c27177 refs/remotes/origin/master",
+    "da2424f55c5d180424d32cbcc142860b7636cc3f refs/remotes/origin/not_entered_into_force"
+  ],
+  "revisions": {
+    "enactment": "ry273we4",
+    "firstAmendment": "gfah5dqe"
+  },
+  "rowKeys": {
+    "2aph": "e1g1",
+    "3zqb": "rhr8",
+    "99jm": "afc6",
+    "a1w3": "akxv",
+    "axb5": "sfrz",
+    "b6gr": "rtdx",
+    "ks0j": "pr70",
+    "m4pn": "a76s",
+    "n9ky": "mcvt",
+    "s8p7": "hvmq",
+    "w7xt": "bwc6",
+    "zvvp": "j1eb"
+  }
+}

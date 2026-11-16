@@ -1,0 +1,191 @@
+[
+  {
+    "name": "enactment-L0",
+    "command": [
+      "loj-validator/target/release/loj-validator.exe",
+      "check",
+      "19480720-law-178/versions/ry273we4",
+      "--level",
+      "L0",
+      "--format",
+      "json"
+    ],
+    "exitCode": 0,
+    "results": [
+      {
+        "check": "L0",
+        "result": "pass"
+      }
+    ],
+    "stderr": ""
+  },
+  {
+    "name": "enactment-L1",
+    "command": [
+      "loj-validator/target/release/loj-validator.exe",
+      "check",
+      "19480720-law-178/versions/ry273we4",
+      "--level",
+      "L1",
+      "--format",
+      "json"
+    ],
+    "exitCode": 0,
+    "results": [
+      {
+        "check": "L1",
+        "result": "pass"
+      }
+    ],
+    "stderr": ""
+  },
+  {
+    "name": "amendment-L0",
+    "command": [
+      "loj-validator/target/release/loj-validator.exe",
+      "check",
+      "19480720-law-178/versions/gfah5dqe",
+      "--level",
+      "L0",
+      "--format",
+      "json"
+    ],
+    "exitCode": 0,
+    "results": [
+      {
+        "check": "L0",
+        "result": "pass"
+      }
+    ],
+    "stderr": ""
+  },
+  {
+    "name": "amendment-L1",
+    "command": [
+      "loj-validator/target/release/loj-validator.exe",
+      "check",
+      "19480720-law-178/versions/gfah5dqe",
+      "--level",
+      "L1",
+      "--format",
+      "json"
+    ],
+    "exitCode": 0,
+    "results": [
+      {
+        "check": "L1",
+        "result": "pass"
+      }
+    ],
+    "stderr": ""
+  },
+  {
+    "name": "history-L3",
+    "command": [
+      "loj-validator/target/release/loj-validator.exe",
+      "check",
+      "19480720-law-178",
+      "--level",
+      "L3",
+      "--format",
+      "json"
+    ],
+    "exitCode": 0,
+    "results": [
+      {
+        "category": "historyStructure",
+        "check": "L3",
+        "result": "pass"
+      },
+      {
+        "category": "evidence",
+        "check": "L3",
+        "result": "pass"
+      }
+    ],
+    "stderr": ""
+  },
+  {
+    "name": "rebuild",
+    "command": [
+      "loj-validator/target/release/loj-validator.exe",
+      "check",
+      "19480720-law-178",
+      "--check",
+      "rebuild",
+      "--format",
+      "json"
+    ],
+    "exitCode": 0,
+    "results": [
+      {
+        "check": "rebuild",
+        "result": "pass"
+      }
+    ],
+    "stderr": ""
+  },
+  {
+    "name": "registry",
+    "command": [
+      "loj-validator/target/release/loj-validator.exe",
+      "check",
+      "loj-registry",
+      "--check",
+      "registry",
+      "--registration-space",
+      "law-of-japan",
+      "--format",
+      "json"
+    ],
+    "exitCode": 0,
+    "results": [
+      {
+        "check": "registry",
+        "result": "pass"
+      }
+    ],
+    "stderr": ""
+  },
+  {
+    "name": "relations-L4",
+    "command": [
+      "loj-validator/target/release/loj-validator.exe",
+      "check",
+      "--registry",
+      "loj-registry",
+      "--repository",
+      "19480720-law-178",
+      "--level",
+      "L4",
+      "--registration-space",
+      "law-of-japan",
+      "--format",
+      "json"
+    ],
+    "exitCode": 0,
+    "results": [
+      {
+        "category": "relationResolution",
+        "check": "L4",
+        "result": "pass"
+      },
+      {
+        "category": "relationConsistency",
+        "check": "L4",
+        "result": "pass"
+      },
+      {
+        "category": "timeConsistency",
+        "check": "L4",
+        "result": "pass"
+      },
+      {
+        "category": "displayConsistency",
+        "check": "L4",
+        "result": "pass"
+      }
+    ],
+    "stderr": ""
+  }
+]

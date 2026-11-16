@@ -1,0 +1,50 @@
+[
+  {
+    "file": "kanpo-19480720-1.jpg",
+    "url": "https://dl.ndl.go.jp/api/iiif/2962986/R0000001/full/full/0/default.jpg",
+    "sha256": "0f5a9fd94bf9dda5df31c4c58a23cf67041c683c68cc876899b010b57afbb728",
+    "retrieved": "2026-11-16"
+  },
+  {
+    "file": "kanpo-19480928-2.jpg",
+    "url": "https://dl.ndl.go.jp/api/iiif/2963048/R0000002/full/full/0/default.jpg",
+    "sha256": "7ba0f51fde9901e77219e6e618fe172f4c5b086f58264c24acdca664f46e7b11",
+    "retrieved": "2026-11-16"
+  },
+  {
+    "file": "goshomei-1948-1.jpg",
+    "url": "https://www.digital.archives.go.jp/api/content/item/da12/C102163682000/iiif/137000486870.jp2/full/max/0/native.jpg",
+    "sha256": "8474524ec0162307fabd92ac8f01854141faedbfbf4cfd9ea660d697556a73c4",
+    "retrieved": "2026-11-16"
+  },
+  {
+    "file": "goshomei-1948-2.jpg",
+    "url": "https://www.digital.archives.go.jp/api/content/item/da12/C102163682100/iiif/137100486871.jp2/full/max/0/native.jpg",
+    "sha256": "868a54f40fe335ce7051bceda14d8dedbe2b3a24efff2fc540b5bc26b9f359b2",
+    "retrieved": "2026-11-16"
+  },
+  {
+    "file": "goshomei-1948-3.jpg",
+    "url": "https://www.digital.archives.go.jp/api/content/item/da12/C102163682200/iiif/137200486872.jp2/full/max/0/native.jpg",
+    "sha256": "b55144aedc3163fc06ed12ae21ccca42906e4a9e8073aa9469e19c3f9c9131bc",
+    "retrieved": "2026-11-16"
+  },
+  {
+    "file": "goshomei-1966-1.jpg",
+    "url": "https://www.digital.archives.go.jp/api/content/item/da12/C102172101300/iiif/112104984337.jp2/full/max/0/native.jpg",
+    "sha256": "0910dda0755b1d70c0e2d51fe132062b7c181b1c782dc8fd96aa70ea804f9914",
+    "retrieved": "2026-11-16"
+  },
+  {
+    "file": "goshomei-1966-2.jpg",
+    "url": "https://www.digital.archives.go.jp/api/content/item/da12/C102172101400/iiif/112204984338.jp2/full/max/0/native.jpg",
+    "sha256": "c4ecd326ca0e815d3af699fbcefc62f0175ecd6403d31787263e1479c4ac88c3",
+    "retrieved": "2026-11-16"
+  },
+  {
+    "file": "goshomei-1966-3.jpg",
+    "url": "https://www.digital.archives.go.jp/api/content/item/da12/C102172101500/iiif/112304984339.jp2/full/max/0/native.jpg",
+    "sha256": "e44cc173685b00b0058725b9a84ac9372aee79d46488246496a80062a17be06d",
+    "retrieved": "2026-11-16"
+  }
+]

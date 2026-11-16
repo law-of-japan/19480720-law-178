@@ -1,0 +1,75 @@
+{
+  "diagnostics": [
+    {
+      "class": "warning",
+      "code": "common/v1alpha1/time-03",
+      "location": {
+        "file": "history.yaml",
+        "pointer": "/relations/0/items/0/effective"
+      },
+      "message": "derived without calc: computed value not checked",
+      "rule": "TIME-03",
+      "schemaVersion": "common/v1alpha1"
+    },
+    {
+      "class": "warning",
+      "code": "common/v1alpha1/time-03",
+      "location": {
+        "file": "history.yaml",
+        "pointer": "/relations/0/items/1/effective"
+      },
+      "message": "derived without calc: computed value not checked",
+      "rule": "TIME-03",
+      "schemaVersion": "common/v1alpha1"
+    },
+    {
+      "class": "warning",
+      "code": "common/v1alpha1/time-03",
+      "location": {
+        "file": "history.yaml",
+        "pointer": "/relations/0/items/2/effective"
+      },
+      "message": "derived without calc: computed value not checked",
+      "rule": "TIME-03",
+      "schemaVersion": "common/v1alpha1"
+    },
+    {
+      "class": "warning",
+      "code": "common/v1alpha1/time-03",
+      "location": {
+        "file": "history.yaml",
+        "pointer": "/revisions/0/effective"
+      },
+      "message": "derived without calc: computed value not checked",
+      "rule": "TIME-03",
+      "schemaVersion": "common/v1alpha1"
+    },
+    {
+      "class": "warning",
+      "code": "common/v1alpha1/time-03",
+      "location": {
+        "file": "history.yaml",
+        "pointer": "/revisions/1/effective"
+      },
+      "message": "derived without calc: computed value not checked",
+      "rule": "TIME-03",
+      "schemaVersion": "common/v1alpha1"
+    }
+  ],
+  "results": [
+    {
+      "category": "historyStructure",
+      "check": "L3",
+      "result": "pass"
+    },
+    {
+      "category": "evidence",
+      "check": "L3",
+      "result": "pass"
+    }
+  ],
+  "target": {
+    "commit": "",
+    "repository": "19480720-law-178"
+  }
+}
