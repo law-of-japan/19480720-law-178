@@ -1,0 +1,301 @@
+schemaVersion: loj-glyphs/v1alpha1
+revision: jq7hf9nx
+notes:
+- id: g2
+  node: 19480720-law-178/main/article/1/paragraph/1
+  offset: 63
+  recorded: 祝
+  kind: ambiguous
+  candidates:
+  - 祝
+  - 祝
+  basis: unifiedDefault
+  evidence:
+  - source: src-kanpo-19480720
+    locator: 1コマ
+  verification:
+    state: unverified
+    reason: 今回取得した画像を参照。細部の字体・幅の確定には追加照合が必要。下書きの注記を引き継いでいる。
+- id: g3
+  node: 19480720-law-178/main/article/1/paragraph/1
+  offset: 88
+  recorded: 祝
+  kind: ambiguous
+  candidates:
+  - 祝
+  - 祝
+  basis: unifiedDefault
+  evidence:
+  - source: src-kanpo-19480720
+    locator: 1コマ
+  verification:
+    state: unverified
+    reason: 今回取得した画像を参照。細部の字体・幅の確定には追加照合が必要。下書きの注記を引き継いでいる。
+- id: g4
+  node: 19480720-law-178/main/article/2/paragraph/1
+  offset: 4
+  recorded: 祝
+  kind: ambiguous
+  candidates:
+  - 祝
+  - 祝
+  basis: unifiedDefault
+  evidence:
+  - source: src-kanpo-19480720
+    locator: 1コマ
+  verification:
+    state: unverified
+    reason: 今回取得した画像を参照。細部の字体・幅の確定には追加照合が必要。下書きの注記を引き継いでいる。
+- id: g5
+  node: 19480720-law-178/main/article/3/paragraph/1
+  offset: 4
+  recorded: 祝
+  kind: ambiguous
+  candidates:
+  - 祝
+  - 祝
+  basis: unifiedDefault
+  evidence:
+  - source: src-kanpo-19480720
+    locator: 1コマ
+  verification:
+    state: unverified
+    reason: 今回取得した画像を参照。細部の字体・幅の確定には追加照合が必要。下書きの注記を引き継いでいる。
+- id: g7
+  node: 19480720-law-178/main/article/2/paragraph/1/table/1/row/rtdx/cell/3
+  offset: 6
+  recorded: 祝
+  kind: ambiguous
+  candidates:
+  - 祝
+  - 祝
+  basis: unifiedDefault
+  evidence:
+  - source: src-kanpo-19480720
+    locator: 1コマ
+  verification:
+    state: unverified
+    reason: 今回取得した画像を参照。細部の字体・幅の確定には追加照合が必要。下書きの注記を引き継いでいる。
+- id: g8
+  node: 19480720-law-178/main/article/2/paragraph/1/table/1/row/pr70/cell/3
+  offset: 29
+  recorded: 祝
+  kind: ambiguous
+  candidates:
+  - 祝
+  - 祝
+  basis: unifiedDefault
+  evidence:
+  - source: src-kanpo-19480720
+    locator: 1コマ
+  verification:
+    state: unverified
+    reason: 今回取得した画像を参照。細部の字体・幅の確定には追加照合が必要。下書きの注記を引き継いでいる。
+- id: g9
+  node: 19480720-law-178/main/article/2/paragraph/1/table/1/row/mcvt/cell/3
+  offset: 7
+  recorded: 祝
+  kind: ambiguous
+  candidates:
+  - 祝
+  - 祝
+  basis: unifiedDefault
+  evidence:
+  - source: src-kanpo-19480720
+    locator: 1コマ
+  verification:
+    state: unverified
+    reason: 今回取得した画像を参照。細部の字体・幅の確定には追加照合が必要。下書きの注記を引き継いでいる。
+- id: g10
+  node: 19480720-law-178/main/article/2/paragraph/1/table/1/row/j1eb/cell/3
+  offset: 11
+  recorded: 祝
+  kind: ambiguous
+  candidates:
+  - 祝
+  - 祝
+  basis: unifiedDefault
+  evidence:
+  - source: src-kanpo-19480720
+    locator: 1コマ
+  verification:
+    state: unverified
+    reason: 今回取得した画像を参照。細部の字体・幅の確定には追加照合が必要。下書きの注記を引き継いでいる。
+- id: g11
+  node: 19480720-law-178/supplement/original/paragraph/1
+  offset: 0
+  recorded: １
+  kind: ambiguous
+  candidates:
+  - '1'
+  - １
+  basis: provisional
+  evidence:
+  - source: src-kanpo-19480720
+    locator: 1コマ 附則
+  - source: src-draft
+    locator: versions/zwgmz1rt/supplement.md
+  verification:
+    state: unverified
+    reason: 今回取得した画像を参照。細部の字体・幅の確定には追加照合が必要。下書きの注記を引き継いでいる。
+- id: g12
+  node: 19480720-law-178/supplement/original/paragraph/2
+  offset: 0
+  recorded: ２
+  kind: ambiguous
+  candidates:
+  - '2'
+  - ２
+  basis: provisional
+  evidence:
+  - source: src-kanpo-19480720
+    locator: 1コマ 附則
+  - source: src-draft
+    locator: versions/zwgmz1rt/supplement.md
+  verification:
+    state: unverified
+    reason: 今回取得した画像を参照。細部の字体・幅の確定には追加照合が必要。下書きの注記を引き継いでいる。
+- id: g13
+  node: 19480720-law-178
+  field: display
+  offset: 3
+  recorded: 祝
+  kind: ambiguous
+  candidates:
+  - 祝
+  - 祝
+  basis: unifiedDefault
+  evidence:
+  - source: src-kanpo-19480720
+    locator: 1コマ 題名
+  verification:
+    state: unverified
+    reason: 今回取得した画像を参照。細部の字体・幅の確定には追加照合が必要。下書きの注記を引き継いでいる。
+- id: g14
+  node: 19480720-law-178/main/article/1/paragraph/1
+  offset: 39
+  recorded: 豊
+  kind: ambiguous
+  candidates:
+  - 豊
+  - 豐
+  basis: otherSource
+  evidence:
+  - source: src-kanpo-19480720
+    locator: 1コマ 第一條
+  - source: src-goshomei
+    locator: 第一條
+  verification:
+    state: unverified
+    reason: 今回取得した画像を参照。細部の字体・幅の確定には追加照合が必要。下書きの注記を引き継いでいる。
+- id: g15
+  node: 19480720-law-178/supplement/original/paragraph/2
+  offset: 12
+  recorded: 号
+  kind: ambiguous
+  candidates:
+  - 号
+  - 號
+  basis: otherSource
+  evidence:
+  - source: src-kanpo-19480720
+    locator: 1コマ 附則第二項
+  - source: src-goshomei
+    locator: 附則第二項
+  verification:
+    state: unverified
+    reason: 今回取得した画像を参照。細部の字体・幅の確定には追加照合が必要。下書きの注記を引き継いでいる。
+- id: g16
+  node: 19480720-law-178/main/article/2/paragraph/1/table/1/row/akxv/cell/2
+  offset: 0
+  recorded: 政令で定める日
+  kind: sourceEdit
+  description: 印刷の「二月十一日」を線で消し、手書きで「政令で定める日」と訂正。2画像で確認。手書きの字体は下書きの試作の字を仮置き。
+  evidence:
+  - source: src-goshomei-s41-86
+    locator: 2画像 建国記念の日の項
+  - source: src-draft
+    locator: versions/zwgmz1rt/main.md
+  verification:
+    state: confirmed
+- id: g-labor-a
+  node: 19480720-law-178/main/article/2/paragraph/1/table/1/row/j1eb/cell/1
+  offset: 1
+  recorded: 労
+  kind: ambiguous
+  candidates:
+  - 労
+  - 勞
+  basis: provisional
+  evidence:
+  - source: src-kanpo-19480720
+    locator: 1コマ 勤労感謝の日の項
+  - source: src-draft
+    locator: versions/98mj5vgx/main.md
+  verification:
+    state: unverified
+    reason: 原典画像で細部を確定できず、下書きの文字を仮置き。
+- id: g-labor-b
+  node: 19480720-law-178/main/article/2/paragraph/1/table/1/row/j1eb/cell/3
+  offset: 1
+  recorded: 労
+  kind: ambiguous
+  candidates:
+  - 労
+  - 勞
+  basis: provisional
+  evidence:
+  - source: src-kanpo-19480720
+    locator: 1コマ 勤労感謝の日の項
+  - source: src-draft
+    locator: versions/98mj5vgx/main.md
+  verification:
+    state: unverified
+    reason: 原典画像で細部を確定できず、下書きの文字を仮置き。
+- id: g-labor-c
+  node: 19480720-law-178/main/article/2/paragraph/1/table/1/row/j1eb/cell/3
+  offset: 9
+  recorded: 産
+  kind: ambiguous
+  candidates:
+  - 産
+  - 產
+  basis: provisional
+  evidence:
+  - source: src-kanpo-19480720
+    locator: 1コマ 勤労感謝の日の項
+  - source: src-draft
+    locator: versions/98mj5vgx/main.md
+  verification:
+    state: unverified
+    reason: 原典画像で細部を確定できず、下書きの文字を仮置き。
+- id: g-s48-1
+  node: 19480720-law-178/main/article/3/paragraph/2
+  offset: 0
+  recorded: ２
+  kind: ambiguous
+  candidates:
+  - '2'
+  - ２
+  basis: provisional
+  evidence:
+  - source: src-goshomei-s48-10
+    locator: 2画像 本則
+  verification:
+    state: unverified
+    reason: 御署名原本の活字の幅を確定できない。官報と未照合（REB-05）。第一項・附則の項番号の注記と同じく全角を仮置き。
+- id: g-s48-2
+  node: 19480720-law-178/main/article/3/paragraph/2
+  offset: 6
+  recorded: 祝
+  kind: ambiguous
+  candidates:
+  - 祝
+  - 祝
+  basis: unifiedDefault
+  evidence:
+  - source: src-goshomei-s48-10
+    locator: 2画像 本則
+  verification:
+    state: unverified
+    reason: 御署名原本の画像を参照。官報と未照合（REB-05）。
