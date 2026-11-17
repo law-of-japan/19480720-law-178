@@ -35,6 +35,12 @@ sourceChecks:
   - source: src-kanpo-19480720
     locator: 1コマ
   note: 2026-11-16取得画像を閲覧。取得URL・SHA-256・閲覧範囲はdocs/sources/downloads.jsonと調査記録に記載。字体全体の照合は未完了。
+- source: src-goshomei-s48-10
+  glyphPreservation: preserved
+  evidence:
+  - source: src-goshomei-s48-10
+    locator: 1・2画像
+  note: 2026-11-18取得画像を閲覧。取得URL・SHA-256・閲覧範囲はdocs/sources/downloads.jsonと調査記録に記載。字体全体の照合は未完了。 昭和48年4月12日の官報は国立国会図書館サーチで所蔵を確認したが、インターネット公開の画像がなく入手できなかったため御署名原本を使用。官報字体・官報正誤は未確認。
 mappings:
 - commit: 927e588c47fb7e3d660dbda95268cde9f775e3df
   revisions: []
@@ -53,10 +59,13 @@ mappings:
   verification:
     state: unverified
     reason: 旧commit本文と今回の2版の対応候補。原典と旧本文の全文・全字体の完全照合は未了。
-pending:
 - commit: 43934f17a35c8b4dce2caec609bddbae4eb6841b
-  label: 昭和四八年法律第十号による改正
-  reason: 今回対象外。原典の取得・再構築は未着手。
+  revisions:
+  - jq7hf9nx
+  verification:
+    state: unverified
+    reason: 旧commit本文と今回の版の対応候補。原典と旧本文の全文・全字体の完全照合は未了。
+pending:
 - commit: 209dcc42d3dbca18d83af75bf5b7991385830606
   label: 昭和六〇年法律第百三号による改正
   reason: 今回対象外。原典の取得・再構築は未着手。
@@ -157,5 +166,55 @@ differences:
   evidence:
   - source: src-goshomei-s41-86
     locator: 3画像 附則第一項
+  verification:
+    state: confirmed
+- revision: jq7hf9nx
+  class: structure
+  node: 19480720-law-178/main/article/2/paragraph/1/table/1
+  note: 旧本文は祝日の表を箇条書きで書いている（前の版と同じ）
+  legacy:
+    commit: 43934f17a35c8b4dce2caec609bddbae4eb6841b
+    path: article.md
+  evidence:
+  - source: src-kanpo-19480720
+    locator: 第二條
+  verification:
+    state: confirmed
+- revision: jq7hf9nx
+  class: structure
+  node: 19480720-law-178/main/article/3
+  note: 旧本文は第三条の二つの項を番号付きの箇条書き（「1.」「2.」）で書いている。原典の第一項には項番号がなく、第二項の項番号は「２」
+  legacy:
+    commit: 43934f17a35c8b4dce2caec609bddbae4eb6841b
+    path: article.md
+  evidence:
+  - source: src-goshomei-s48-10
+    locator: 2画像 本則
+  verification:
+    state: confirmed
+- revision: jq7hf9nx
+  class: glyph
+  count: 12
+  legacy:
+    commit: 43934f17a35c8b4dce2caec609bddbae4eb6841b
+    path: article.md
+  evidence:
+  - source: src-kanpo-19480720
+    locator: 1コマ
+  - source: src-goshomei-s48-10
+    locator: 2画像 本則
+  verification:
+    state: unverified
+    reason: '字体を照合していない字（text.glyphCheck: unverified）は数えていない。加えた第三条第二項は旧本文と字が同じ'
+- revision: jq7hf9nx
+  class: structure
+  node: 19480720-law-178/supplement/original
+  note: 旧本文に付加された改正法附則（昭和四十一年法律第八十六号、昭和四十八年法律第十号）への見出しリンクは収録しない。被改正法の制定附則のみ保持。
+  legacy:
+    commit: 43934f17a35c8b4dce2caec609bddbae4eb6841b
+    path: supplementary_provision.md
+  evidence:
+  - source: src-goshomei-s48-10
+    locator: 2画像 附則第一項
   verification:
     state: confirmed
