@@ -46,5 +46,17 @@
     "url": "https://www.digital.archives.go.jp/api/content/item/da12/C102172101500/iiif/112304984339.jp2/full/max/0/native.jpg",
     "sha256": "e44cc173685b00b0058725b9a84ac9372aee79d46488246496a80062a17be06d",
     "retrieved": "2026-11-16"
+  },
+  {
+    "file": "goshomei-1973-1.jpg",
+    "url": "https://www.digital.archives.go.jp/api/content/item/da12/C101207265800/iiif/010705014343.jp2/full/max/0/native.jpg",
+    "sha256": "58c47631b3bc0fd234dc7bac2d66b76f3dcf3f38d1141c46df842a611877c0b2",
+    "retrieved": "2026-11-18"
+  },
+  {
+    "file": "goshomei-1973-2.jpg",
+    "url": "https://www.digital.archives.go.jp/api/content/item/da12/C101207265900/iiif/010805014344.jp2/full/max/0/native.jpg",
+    "sha256": "9a8ef69494779af1be76ac181840698d12330196a5fd4b6db03feeb8756be6b2",
+    "retrieved": "2026-11-18"
   }
 ]
